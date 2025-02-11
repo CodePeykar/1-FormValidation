@@ -23,4 +23,10 @@ const participants = [
     source: 'https://codepen.io/Kimia-msv/pen/emYYdpE',
     preview: 'https://codepen.io/Kimia-msv/pen/emYYdpE',
   },
+  {
+    name: 'ariabarzegar',
+    username: 'https://github.com/ariabarzegar',
+    source: 'https://codepen.io/aria-barzegar/pen/azbbbBp',
+    preview: 'https://codepen.io/aria-barzegar/pen/azbbbBp',
+  },
 ];
