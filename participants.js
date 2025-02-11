@@ -23,4 +23,10 @@ const participants = [
     source: 'https://codepen.io/Kimia-msv/pen/emYYdpE',
     preview: 'https://codepen.io/Kimia-msv/pen/emYYdpE',
   },
+  {
+    name: 'Farshad',
+    username: 'https://github.com/Love-Code1423',
+    source: 'https://codepen.io/Love-Code1423/pen/ogNNjyq',
+    preview: 'https://codepen.io/Love-Code1423/pen/ogNNjyq',
+  },
 ];
