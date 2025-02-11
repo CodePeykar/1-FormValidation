@@ -32,6 +32,7 @@ HTML, CSS, JS
 
 ### انجام‌دهندگان چالش
 
-| Github User                       | Source Code                    | Preview                         |
-| --------------------------------- | ------------------------------ | ------------------------------- |
-| [Your Name](https://example.com/) | [Source](https://example.com/) | [Preview](https://example.com/) |
+| Github Username                          | Source Code                                                | Preview                                                     |
+| ---------------------------------------- | ---------------------------------------------------------- | ----------------------------------------------------------- |
+| [Farzane](https://github.com/farzane-na) | [Source](https://codepen.io/Farzane-Nazmabadi/pen/XJWraMY) | [Preview](https://codepen.io/Farzane-Nazmabadi/pen/XJWraMY) |
+| [Kimia](https://github.com/Kimia-msv)    | [Source](https://codepen.io/Kimia-msv/pen/emYYdpE)         | [Preview](https://codepen.io/Kimia-msv/pen/emYYdpE)         |
