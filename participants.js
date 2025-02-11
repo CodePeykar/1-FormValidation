@@ -17,4 +17,10 @@ const participants = [
     source: 'https://codepen.io/Farzane-Nazmabadi/pen/XJWraMY',
     preview: 'https://codepen.io/Farzane-Nazmabadi/pen/XJWraMY',
   },
+  {
+    name: 'Kimia',
+    username: 'https://github.com/Kimia-msv',
+    source: 'https://codepen.io/Kimia-msv/pen/emYYdpE',
+    preview: 'https://codepen.io/Kimia-msv/pen/emYYdpE',
+  },
 ];
