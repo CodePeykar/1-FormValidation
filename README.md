@@ -31,5 +31,5 @@ HTML, CSS, JS
 
 | Github User                       | Source Code                    | Preview                         |
 | --------------------------------- | ------------------------------ | ------------------------------- |
-| Love-Code1423 | https://github.com/Love-Code1423/1-FormValidation.git |
-| preview :https://Love-Code1423.github.io/1-CodePeykar-FormValidation  |
+| https://github.com/Love-Code1423 | https://github.com/Love-Code1423/1-CodePeykar-FormValidation | https://codepen.io/Love-Code1423/pen/ogNNjyq|  
+|                                    |                                |                                 |
