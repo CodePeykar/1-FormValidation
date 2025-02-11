@@ -40,5 +40,10 @@ const participants = [
     username: 'https://github.com/Imaliasadi',
     source: 'https://codepen.io/Imaliasadi/pen/JojjNOo',
     preview: 'https://validsignupform.netlify.app/',
-  },
+  }, {
+    name: 'Sepehr',
+    username: 'https://github.com/Sepehr1naqavian',
+    source: 'https://codepen.io/Sepehr1naqavian/pen/ByaadZo',
+    preview: 'https://codepen.io/Sepehr1naqavian/pen/ByaadZo',
+  }
 ];
