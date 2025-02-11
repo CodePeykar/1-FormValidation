@@ -32,7 +32,10 @@ HTML, CSS, JS
 
 ### انجام‌دهندگان چالش
 
-| Github Username                          | Source Code                                                | Preview                                                     |
-| ---------------------------------------- | ---------------------------------------------------------- | ----------------------------------------------------------- |
-| [Farzane](https://github.com/farzane-na) | [Source](https://codepen.io/Farzane-Nazmabadi/pen/XJWraMY) | [Preview](https://codepen.io/Farzane-Nazmabadi/pen/XJWraMY) |
-| [Kimia](https://github.com/Kimia-msv)    | [Source](https://codepen.io/Kimia-msv/pen/emYYdpE)         | [Preview](https://codepen.io/Kimia-msv/pen/emYYdpE)         |
+| Github Username                                  | Source Code                                                   | Preview                                                        |
+| ------------------------------------------------ | ------------------------------------------------------------- | -------------------------------------------------------------- |
+| [Farzane](https://github.com/farzane-na)         | [Source](https://codepen.io/Farzane-Nazmabadi/pen/XJWraMY)    | [Preview](https://codepen.io/Farzane-Nazmabadi/pen/XJWraMY)    |
+| [Kimia](https://github.com/Kimia-msv)            | [Source](https://codepen.io/Kimia-msv/pen/emYYdpE)            | [Preview](https://codepen.io/Kimia-msv/pen/emYYdpE)            |
+| [aria barzegar](https://github.com/ariabarzegar) | [Source](https://codepen.io/aria-barzegar/pen/azbbbBp)        | [Preview](https://codepen.io/aria-barzegar/pen/azbbbBp)        |
+| [Fatemeh](https://github.com/Fawtm)              | [Source](https://codepen.io/kawhlpud-the-encoder/pen/KwKPYmm) | [Preview](https://codepen.io/kawhlpud-the-encoder/pen/KwKPYmm) |
+| [Ali Asadi](https://github.com/Imaliasadi)       | [Source](https://codepen.io/Imaliasadi/pen/JojjNOo)           | [Preview](https://codepen.io/Imaliasadi/pen/JojjNOo)           |
