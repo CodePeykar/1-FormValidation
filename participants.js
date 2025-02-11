@@ -24,7 +24,7 @@ const participants = [
     preview: 'https://codepen.io/Kimia-msv/pen/emYYdpE',
   },
   {
-    name: 'ariabarzegar',
+    name: 'Aria Barzegar',
     username: 'https://github.com/ariabarzegar',
     source: 'https://codepen.io/aria-barzegar/pen/azbbbBp',
     preview: 'https://codepen.io/aria-barzegar/pen/azbbbBp',
@@ -36,7 +36,13 @@ const participants = [
     preview: 'https://codepen.io/kawhlpud-the-encoder/pen/KwKPYmm',
   },
   {
-    name: 'AliAtaei',
+    name: 'Ali Asadi',
+    username: 'https://github.com/Imaliasadi',
+    source: 'https://codepen.io/Imaliasadi/pen/JojjNOo',
+    preview: 'https://validsignupform.netlify.app/',
+  },
+  {
+    name: 'Ali Ataei',
     username: 'https://github.com/Aljatael',
     source: 'https://codepen.io/aljatael/pen/MYWgEBM',
     preview: 'https://codepen.io/aljatael/pen/MYWgEBM',
