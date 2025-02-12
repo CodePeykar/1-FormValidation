@@ -47,4 +47,10 @@ const participants = [
     source: 'https://codepen.io/aljatael/pen/MYWgEBM',
     preview: 'https://codepen.io/aljatael/pen/MYWgEBM',
   },
+  {
+    name: 'Sepehr',
+    username: 'https://github.com/Sepehr1naqavian',
+    source: 'https://codepen.io/Sepehr1naqavian/pen/ByaadZo',
+    preview: 'https://codepen.io/Sepehr1naqavian/pen/ByaadZo',
+  },
 ];
