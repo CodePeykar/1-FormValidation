@@ -19,7 +19,7 @@ HTML, CSS, JS
 1. اگر با گیتهاب و گیت آشنا نیستید [این ویدئو](http://youtu.be/xDdal3QSypE) رو ببینید.
 2. قوانین چالش رو با دقت مطالعه کنید و کد پروژه رو بنویسید.
 3. کد پروژه رو در سایت [CodePen.io](https://codepen.io/) منتشر کنید.
-4. اگر با Pull Request آشنا نیستید [این ویدئو](https://youtu.be/CML6vfKjQss?t=106) یا [این ویدئو](https://www.youtube.com/watch?v=HbSjyU2vf6Y&pp=ygURY29udHJpYnV0ZSBnaXRodWI%3D) رو ببینید. اگر مشکل داشتید به آیدی [ItsTarv@](https://t.me/ItsTarv) سورس رو ارسال کنید. و مراحل بعد رو نادیده بگیرید.
+4. اگر با Pull Request آشنا نیستید [این ویدئو](https://youtu.be/CML6vfKjQss?t=106) یا [این ویدئو](https://www.youtube.com/watch?v=HbSjyU2vf6Y&pp=ygURY29udHJpYnV0ZSBnaXRodWI%3D) رو ببینید. اگر مشکل داشتید به آیدی [ItsTarv@](https://t.me/ItsTarv) پیام بدید.
 5. این ریپو رو Fork کنید به فایل participants.js برید و نام، آیدی گیتهاب، لینک کد و لینک خروجی کدتون رو به اون اضافه کنید.
 6. پول ریکوئست رو ثبت کنید و منتظر تایید باشید. پس از تایید کد شما در جدول همین فایل نمایش داده می‌شود.
 
