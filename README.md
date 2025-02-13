@@ -8,7 +8,7 @@ HTML, CSS, JS
 
 ### قوانین چالش
 
-- ظاهر پروژه باید شبیه به عکس باشد.
+- اجباری در پیاده‌سازی دقیق رابط کاربری (UI) پروژه نیست. می‌توانید صرفا با تگ‌های HTML، و بدون CSS ظاهر رو پیاده کنید و روی منطق و JavaScript چالش تمرکز کنید.
 - ایمیل باید با فرمت صحیح وارد شود و پترن ایمیل را داشته باشد.
 - رمز عبور باید بیش از ۸ کارکتر، شامل حرف بزرگ، حرف کوچک، نماد مانند @ # $ % و عدد باشد.
 - رمز عبور و تکرار رمز عبور باید مقدار یکسان داشته باشند.
@@ -36,14 +36,14 @@ HTML, CSS, JS
 
 ### انجام‌دهندگان چالش
 
-| Github Username                                  | Source Code                                                   | Preview                                                        |
-| ------------------------------------------------ | ------------------------------------------------------------- | -------------------------------------------------------------- |
-| [Farzane](https://github.com/farzane-na)         | [Source](https://codepen.io/Farzane-Nazmabadi/pen/XJWraMY)    | [Preview](https://codepen.io/Farzane-Nazmabadi/pen/XJWraMY)    |
-| [Kimia](https://github.com/Kimia-msv)            | [Source](https://codepen.io/Kimia-msv/pen/emYYdpE)            | [Preview](https://codepen.io/Kimia-msv/pen/emYYdpE)            |
-| [Aria Barzegar](https://github.com/ariabarzegar) | [Source](https://codepen.io/aria-barzegar/pen/azbbbBp)        | [Preview](https://codepen.io/aria-barzegar/pen/azbbbBp)        |
-| [Fatemeh](https://github.com/Fawtm)              | [Source](https://codepen.io/kawhlpud-the-encoder/pen/KwKPYmm) | [Preview](https://codepen.io/kawhlpud-the-encoder/pen/KwKPYmm) |
-| [Ali Asadi](https://github.com/Imaliasadi)       | [Source](https://codepen.io/Imaliasadi/pen/JojjNOo)           | [Preview](https://codepen.io/Imaliasadi/pen/JojjNOo)           |
-| [Ali Ataei](https://github.com/Aljatael)         | [Source](https://codepen.io/aljatael/pen/MYWgEBM)             | [Preview](https://codepen.io/aljatael/pen/MYWgEBM)             |
-| [Sepehr](https://github.com/Sepehr1naqavian)     | [Source](https://codepen.io/Sepehr1naqavian/pen/ByaadZo)      | [Preview](https://codepen.io/Sepehr1naqavian/pen/ByaadZo)      |
-| [Narges](https://github.com/nargesz13)           | [Source](https://codepen.io/nargesz13/pen/azbbMaW)            | [Preview](https://codepen.io/nargesz13/pen/azbbMaW)            |
-| [CodePeykar](https://github.com/codePeykar)              | [Source](https://codepen.io/codepeykar/pen/vEYELmb)           | [Preview](https://codepen.io/codepeykar/pen/vEYELmb)           |
+| Github Username                                  | CodePen                                                       | UI  |
+| ------------------------------------------------ | ------------------------------------------------------------- | --- |
+| [Farzane](https://github.com/farzane-na)         | [Source](https://codepen.io/Farzane-Nazmabadi/pen/XJWraMY)    | ☑️  |
+| [Kimia](https://github.com/Kimia-msv)            | [Source](https://codepen.io/Kimia-msv/pen/emYYdpE)            | ☑️  |
+| [Aria Barzegar](https://github.com/ariabarzegar) | [Source](https://codepen.io/aria-barzegar/pen/azbbbBp)        | ☑️  |
+| [Fatemeh](https://github.com/Fawtm)              | [Source](https://codepen.io/kawhlpud-the-encoder/pen/KwKPYmm) | ☑️  |
+| [Ali Asadi](https://github.com/Imaliasadi)       | [Source](https://codepen.io/Imaliasadi/pen/JojjNOo)           | ☑️  |
+| [Ali Ataei](https://github.com/Aljatael)         | [Source](https://codepen.io/aljatael/pen/MYWgEBM)             | ☑️  |
+| [Sepehr](https://github.com/Sepehr1naqavian)     | [Source](https://codepen.io/Sepehr1naqavian/pen/ByaadZo)      | ☑️  |
+| [Narges](https://github.com/nargesz13)           | [Source](https://codepen.io/nargesz13/pen/azbbMaW)            | ☑️  |
+| [CodePeykar](https://github.com/codePeykar)      | [Source](https://codepen.io/codepeykar/pen/vEYELmb)           | ☑️  |
