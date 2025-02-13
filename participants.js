@@ -53,4 +53,10 @@ const participants = [
     source: 'https://codepen.io/Sepehr1naqavian/pen/ByaadZo',
     preview: 'https://codepen.io/Sepehr1naqavian/pen/ByaadZo',
   },
+  {
+    name: 'Narges',
+    username: 'https://github.com/nargesz13',
+    source: 'https://codepen.io/nargesz13/pen/azbbMaW',
+    preview: 'https://codepen.io/nargesz13/pen/azbbMaW',
+  },
 ];
