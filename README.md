@@ -36,14 +36,14 @@ HTML, CSS, JS
 
 ### انجام‌دهندگان چالش
 
-| Github Username                                  | CodePen                                                       | UI  |
-| ------------------------------------------------ | ------------------------------------------------------------- | --- |
-| [Farzane](https://github.com/farzane-na)         | [Source](https://codepen.io/Farzane-Nazmabadi/pen/XJWraMY)    | ☑️  |
-| [Kimia](https://github.com/Kimia-msv)            | [Source](https://codepen.io/Kimia-msv/pen/emYYdpE)            | ☑️  |
-| [Aria Barzegar](https://github.com/ariabarzegar) | [Source](https://codepen.io/aria-barzegar/pen/azbbbBp)        | ☑️  |
-| [Fatemeh](https://github.com/Fawtm)              | [Source](https://codepen.io/kawhlpud-the-encoder/pen/KwKPYmm) | ☑️  |
-| [Ali Asadi](https://github.com/Imaliasadi)       | [Source](https://codepen.io/Imaliasadi/pen/JojjNOo)           | ☑️  |
-| [Ali Ataei](https://github.com/Aljatael)         | [Source](https://codepen.io/aljatael/pen/MYWgEBM)             | ☑️  |
-| [Sepehr](https://github.com/Sepehr1naqavian)     | [Source](https://codepen.io/Sepehr1naqavian/pen/ByaadZo)      | ☑️  |
-| [Narges](https://github.com/nargesz13)           | [Source](https://codepen.io/nargesz13/pen/azbbMaW)            | ☑️  |
-| [CodePeykar](https://github.com/codePeykar)      | [Source](https://codepen.io/codepeykar/pen/vEYELmb)           | ☑️  |
+| Github Username                                  | CodePen Source & Preview                                       | UI  |
+| ------------------------------------------------ | -------------------------------------------------------------- | --- |
+| [Farzane](https://github.com/farzane-na)         | [Preview](https://codepen.io/Farzane-Nazmabadi/pen/XJWraMY)    | ☑️  |
+| [Kimia](https://github.com/Kimia-msv)            | [Preview](https://codepen.io/Kimia-msv/pen/emYYdpE)            | ☑️  |
+| [Aria Barzegar](https://github.com/ariabarzegar) | [Preview](https://codepen.io/aria-barzegar/pen/azbbbBp)        | ☑️  |
+| [Fatemeh](https://github.com/Fawtm)              | [Preview](https://codepen.io/kawhlpud-the-encoder/pen/KwKPYmm) | ☑️  |
+| [Ali Asadi](https://github.com/Imaliasadi)       | [Preview](https://codepen.io/Imaliasadi/pen/JojjNOo)           | ☑️  |
+| [Ali Ataei](https://github.com/Aljatael)         | [Preview](https://codepen.io/aljatael/pen/MYWgEBM)             | ☑️  |
+| [Sepehr](https://github.com/Sepehr1naqavian)     | [Preview](https://codepen.io/Sepehr1naqavian/pen/ByaadZo)      | ☑️  |
+| [Narges](https://github.com/nargesz13)           | [Preview](https://codepen.io/nargesz13/pen/azbbMaW)            | ☑️  |
+| [CodePeykar](https://github.com/codePeykar)      | [Preview](https://codepen.io/codepeykar/pen/vEYELmb)           | ☑️  |
